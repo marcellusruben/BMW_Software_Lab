@@ -18,7 +18,7 @@ There are 4 main steps in this project: trajectory reconstruction, video analysi
   <img width="460" height="300" src="https://github.com/marcellusruben/BMW_Software_Lab/blob/master/videoPict.png">
 </p>
 
-3. In optimization part, the sensor's data will be compared with the data from FE video. To minimize the error in the sensor's data, a stochastic optimization algorithm, differential evolution, will be performed. The output of this step is a new and optimized sensor's data.
+3. In optimization part, the sensor's data is compared with the data from FE video. To minimize the error in the sensor's data, a stochastic optimization algorithm, differential evolution, is performed. The output of this step is a new and optimized sensor's data.
 4. Robustness or sensitivity analysis part is beneficial to 'guess' several possibilities regarding the initial orientation of the sensor.
 
 ## Files
